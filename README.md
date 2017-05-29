@@ -1,4 +1,4 @@
-# HackerRank-30-Days-of-Code
-Solutions to problems in HackerRank 30 Days of Code Tutorial
+# HackerRank-Day-4-Classes-And-Instances
+Class and Instance problem.
 
-In the projects in this repo I will demostrate the possible solutions to HackerRank 30 Days of Code Tutorial
+
